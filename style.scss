@@ -1,0 +1,56 @@
+.home{
+    margin: 2rem auto;
+    h1{
+        color: #2525cb;
+        text-align: center;
+        justify-content: center;
+        justify-items: center;
+        margin-bottom: 3rem;
+    }
+    .Logo{
+        border: none;
+        margin: 0;
+        padding: 0;
+        margin: 1% 45%;
+    }
+}
+h1{
+    color: #2525cb;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin-bottom: 3rem;
+}
+
+.card{
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+    .titleHeading{
+        background-color: #2525cb;
+        color: white;
+        justify-content: center;
+        padding: 0.5rem 0rem;
+        .siteLogo{
+            padding: 0;
+            margin: 0;
+            border: none;
+            margin-top: 0.25rem;
+            width: 2.5rem;
+            height: 1.95rem;
+        }
+        h2{
+            padding-left: 0.75rem;
+        }
+    }
+    .cardText{
+        padding: 0.75rem;
+    }
+}
+img{
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 100%;
+    border: 2px solid #e5e5ec;
+    padding: 5px;
+    margin-right: 1rem;
+}
